@@ -1,10 +1,11 @@
 
 
-Select of 1-bit music players and their tunes for the TRS-80 model 1-3 computers.
-These have been converted from the ZX Spectrum computer; most have been written by Shiru, Utz & Tim Follin, Oleg.
+Selection of 1-bit music players and their tunes for the TRS-80 model 1-3 computers.
+These have been converted over from the ZX Spectrum computer; most have been written by Shiru, Utz & Tim Follin, Oleg.
 
-Some of these are a bit 'iffy' due to the large variation between the ZX Spectrum 3.5Mhz clock speed and the TRS-80's 1.7Mhz.
-Please try : OctodeXL_Dance , as this may be the best sounding out of the lot. The Huby's are also relativiy clean.
+Some of these are a bit 'iffy' due to the large variation between the ZX Spectrum 3.5Mhz clock speed and the TRS-80's 1.7Mhz. As well as some players are specifically written for the ZX and refuse to play nicely with other z80 computers.
+
+Please try : OctodeXL_Dance , as this may be the one of the better sounding tunes out of the lot. The Huby's are also relativiy clean.
 
 .ASM source code,  .CMD & .CAS file for Emulators,  .WAV for real hardware.
 
